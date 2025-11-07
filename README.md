@@ -21,7 +21,7 @@
     <a href="https://d8it4huxumps7.cloudfront.net/uploads/profileData/files/30889909/amisharajput977_67d15818117e3.pdf">
       <img src="https://img.shields.io/badge/Resume-4682B4?style=flat-square&logo=document&logoColor=white&labelColor=4682B4" alt="Resume"/>
     </a>
-    <a href="https://leetcode.com/u/amisha1823/">
+    <a href="">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
     </a>
   </div>
