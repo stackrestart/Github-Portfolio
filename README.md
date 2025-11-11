@@ -36,10 +36,10 @@
 
 Recent **Masters graduate** with expertise in full-stack web development, specializing in modern JavaScript frameworks and backend technologies. Passionate about building scalable web applications and solving complex problems.
 
-- 🔧 **Tech Stack:** React, Next.js, Node.js, TypeScript, Java
+- 🔧 **Tech Stack:** React, Next.js, Node.js, TypeScript, Python
 - 🎯 **Focus:** Full-stack development with emphasis on user experience
 - 🌱 **Currently:** Actively seeking full-time opportunities in web development
-- ⚡ **Interests:** Problem-solving on LeetCode, contributing to open-source projects
+- ⚡ **Interests:** Problem-solving on LeetCode, HackerRank
 - 💡 **Fun Fact:** I love turning coffee into code! ☕→💻
 
 ---
